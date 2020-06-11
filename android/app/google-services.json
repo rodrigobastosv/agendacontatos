@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923490877849",
+    "firebase_url": "https://compact-sylph-160923.firebaseio.com",
+    "project_id": "compact-sylph-160923",
+    "storage_bucket": "compact-sylph-160923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923490877849:android:4581ef97c0fdfa917fd308",
+        "android_client_info": {
+          "package_name": "com.rodrigo.agendacontatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923490877849-jrtsgg7a7k3pcau6atl7p7itp8ma82vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_qRrrzLCnr0c6USc0ier48FWoi218Pjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923490877849-jrtsgg7a7k3pcau6atl7p7itp8ma82vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
